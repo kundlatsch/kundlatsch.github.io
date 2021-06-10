@@ -17,12 +17,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+linkedin: "https://www.linkedin.com/in/kundlatsch/"
+github: "https://github.com/kundlatsch"
 
 highlighter: rouge
 markdown: kramdown
