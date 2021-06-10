@@ -5,7 +5,7 @@ description: full-stack developer | CS undergraduate at UFSC
 
 baseurl: #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
-email: #
+email: gustavo.kundlatsch@gmail.com
 
 
 highlighter: rouge
